@@ -1,0 +1,4 @@
+#Thu Mar 17 05:40:02 TRT 2022
+base.0=/home/alistnel/docs/work/alperen/ucbilet_mobile/demo1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

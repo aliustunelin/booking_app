@@ -2,7 +2,7 @@
 This is ticket booking app for airplanes, trains and buses
 
 
-I used Flutter while developing the app. It contains only UI. The database connection is clearly coded.
+I used Flutter while developing the app. It contains only UI.  The database connection is clearly coded.
 
 You may need a web service to use it. 
 
